@@ -1,0 +1,47 @@
+.App {
+  width: 100%;
+  text-align: center;
+}
+button{
+  padding: 20px;
+  font-size: 18px;
+  margin: 5px 10px 0;
+  border: none;
+  border-radius: 20px;
+  transition: .3s linear;
+  cursor: pointer;
+  background-color: #4eb933;
+  color: #fff;
+}
+button:hover{
+  background-color: #181f6b;
+}
+.aboutUs{
+  margin: 100px 0;
+  padding: 20px;
+  background-color: #51eeee;
+  p{
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+}
+
+.portfolioPage{
+  margin: 50px 0;
+  background-color: #eeeeee;
+  padding: 20px;
+  ul{
+    li{
+      list-style: none;
+      font-size: 18px;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.contactsPage{
+  margin: 50px 0;
+  padding: 20px;
+  background-color: #878f84;
+}
+
